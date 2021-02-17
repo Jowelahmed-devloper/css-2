@@ -77,4 +77,7 @@ section{
     .players, .courses{
         grid-template-columns: repeat(1, 1fr);
     }
+    .blog, .course{
+        display: block;
+    }
 }
